@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Game Development  
-- 🌱 I’m currently learning Unity, C#, Laravel  
-- 👯 I’m looking to collaborate on Any Game/Web Projects  
-- 🤔 I’m looking for help with Advanced Game Programming  
+- 🌱 Learning Unity, C#, Laravel  
+- 👯 Looking to collaborate on Any Game/Web Projects  
+- 🤔 Expecting help with Advanced Game Programming  
 - 💬 Ask me about Robotics, Game Development, Web Development, Music, Politics, Travel, Games, Cricket, Photography  
-- 📫 How to reach me: tuhinmridha11@gmail.com  
+- 📫 Reach me On facebook.com/tuhin.mridha.5/ 
 - 😄 Pronouns: None :v  
 - ⚡ Fun fact: "I actually had to google to answer this :3"  
 <!--
