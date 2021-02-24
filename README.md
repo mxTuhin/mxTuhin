@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on Any Game/ Web/ Robotics Projects  
 - 🤔 Expecting help with Advanced Game Programming  
 - 💬 Ask me about Robotics, Game Development, Web Development, Music, Politics, Travel, Games, Cricket, Photography  
-- 📫 Reach me On https://www.facebook.com/tuhin.mridha.5/
+- 📫 Reach me on: https://www.facebook.com/tuhin.mridha.5/
 - 😄 Pronouns: None :v  
 - ⚡ Fun fact: "I actually had to google to answer this :3"  
 <!--
