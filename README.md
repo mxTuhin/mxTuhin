@@ -7,7 +7,7 @@
 - 💬 Ask me about Robotics, Game Development, Web Development, Music, Politics, Travel, Games, Cricket, Photography  
 - 📫 Reach me on: https://www.facebook.com/tuhin.mridha.5/
 - 😄 Pronouns: None :v  
-- ⚡ Fun fact: "I actually had to google to answer this :3"  
+- ⚡ Fun fact: "I dream of making an AAA Game everynight and then wake up realizing i dont have the money xD"  
 <!--
 **mxTuhin/mxTuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
