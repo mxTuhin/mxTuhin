@@ -9,6 +9,7 @@
 - 😄 Pronouns: None :v  
 - ⚡ Fun fact: "I dream of making an AAA Game everynight and then wake up realizing i dont have the money xD"
 - See my published Games Here: https://scorpions.studio/#publishedGames
+- See my Web and Robotics Project: https://mxtuhin.ninja/#/portfolio
 <!--
 **mxTuhin/mxTuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
