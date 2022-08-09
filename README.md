@@ -34,7 +34,7 @@
 
 ## 🛠️ **Languages & Tools:**
 
-![C#](https://img.shields.io/badge/-CSharp-f26327?&style=for-the-badge&logo=C#&ogoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-9567CE?&style=for-the-badge&logo=C#&ogoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-black?&style=for-the-badge&logo=unity&ogoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-f26327?&style=for-the-badge&logo=php&ogoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-grey?&style=for-the-badge&logo=laravel&ogoColor=white)
