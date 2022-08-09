@@ -8,7 +8,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
-<img align="right" alt="Coding" width="300" height="225" src="img/Background.png">
+<img align="right" alt="Coding" width="250" height="240" src="img/Background.png">
 </br>
 
 ##   👨 **About Me**
