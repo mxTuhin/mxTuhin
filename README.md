@@ -68,6 +68,9 @@
 [![website](./img/facebook-light.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-dark-mode-only)
 
+## Support Me !
+<a href="https://www.buymeacoffee.com/nafisaalamS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important  ;width: 150px !important ;"></a>
 
-<img src="https://raw.githubusercontent.com/tahmidabir/tahmidabir/output/github-contribution-grid-snake.svg" />
+
+<img src="img/grid-snake.svg" />
 
