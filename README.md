@@ -1,13 +1,18 @@
-# <p align="center">️ **Hi there!! I'm Tuhin Mridha** 👋 </p>
+# <p align="center">️ **Hi there!! I'm Tuhin Mridha** 👋 <br><a href="https://www.buymeacoffee.com/mxtuhin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important  ;width: 150px !important ;"></a></p>
 <p align="center">️<small>Eat 🍲 Sleep 😴 Develop 💻 Repeat 🔁</small></p>
 
 <p align="center">
 
 
 </a>
+
+
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
+
+
+
 <img align="right" alt="Coding" width="250" height="240" src="img/Background.png">
 </br>
 
@@ -68,8 +73,6 @@
 [![website](./img/facebook-light.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-dark-mode-only)
 
-## Support Me !
-<a href="https://www.buymeacoffee.com/nafisaalamS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important  ;width: 150px !important ;"></a>
 
 
 <img src="img/grid-snake.svg" />
