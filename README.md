@@ -20,15 +20,19 @@
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/mxTuHin">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
-</a>
+<div align="center">
+
+<!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+| ![mxTuHin's github stats](https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=tokyonight&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 <a href="https://github.com/mxTuHin/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mxTuHin&layout=compact&theme=tokyonight" />
 </a>
 
-<!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
+</div>
 
 ## 🛠️ **Languages & Tools:**
 
@@ -48,8 +52,6 @@
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mxTuHin" /></p>
 
 
 ## 🌐 **Connect with me:** ️
