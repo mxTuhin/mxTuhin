@@ -55,7 +55,7 @@
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mxTuHin" /></p>
 
 
 ## 🌐 **Connect with me:** ️
@@ -76,4 +76,11 @@
 
 
 <img src="img/grid-snake.svg" />
+
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mxTuHin&label=Profile%20views&color=0e75b6&style=flat"alt="mxTuHin" />
+</p>
+
 
