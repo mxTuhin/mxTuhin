@@ -4,7 +4,8 @@
 <p align="center">
 
 
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"> <img src="https://komarev.com/ghpvc/?username=mxTuHin&label=Profile%20views&color=0e75b6&style=flat"alt="mxTuHin" />
+
 </p>
 <br>
 
@@ -75,8 +76,7 @@
 
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mxTuHin&label=Profile%20views&color=0e75b6&style=flat"alt="mxTuHin" />
-</p>
+
+
 
 
