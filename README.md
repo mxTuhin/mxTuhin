@@ -20,16 +20,12 @@
 
 ## 📈 **Github Stats:**
 
-<div align="center">
 <a href="https://github.com/mxTuHin">
-<img width="360" align="center" src="https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/mxTuHin/github-readme-stats">
-<img width="360" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mxTuHin&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mxTuHin&layout=compact&theme=tokyonight" />
 </a>
-</div>
-
-
 
 <!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
