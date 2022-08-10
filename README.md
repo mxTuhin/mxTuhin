@@ -6,7 +6,8 @@
 
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
-<br><br>
+<br>
+
 <img align="right" alt="Coding" width="250" height="240" src="img/Background.png">
 
 ##   👨 **About Me**
@@ -28,10 +29,6 @@
 
 <!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mxTuHin" /></p>
-
 
 ## 🛠️ **Languages & Tools:**
 
@@ -51,6 +48,8 @@
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mxTuHin" /></p>
 
 
 ## 🌐 **Connect with me:** ️
