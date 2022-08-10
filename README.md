@@ -1,5 +1,5 @@
 # <p align="center">️ **Hi there!! I'm Tuhin Mridha** 👋 <br><a href="https://www.buymeacoffee.com/mxtuhin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important  ;width: 150px !important ;"></a></p>
-<p align="center">️<small>Eat 🍲 Sleep 😴 Develop 💻 Repeat 🔁</small></p>
+<p align="center">️<small>Eat 🍲 Sleep 😴 Develop 💻 Travel 🏖️ Repeat 🔁</small></p>
 
 <p align="center">
 
