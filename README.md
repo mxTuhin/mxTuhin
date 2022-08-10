@@ -21,7 +21,7 @@
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/mxTuHin">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/mxTuHin/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mxTuHin&layout=compact&theme=tokyonight" />
