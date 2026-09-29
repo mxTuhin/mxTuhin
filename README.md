@@ -1,83 +1,67 @@
-# <p align="center">️ **Hi there!! I'm Tuhin Mridha** 👋 <br>
-<p align="center">️<small>Eat 🍲 Sleep 😴 Develop 💻 Travel 🏖️ Repeat 🔁</small></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=190&section=header&text=Tuhin%20Mridha&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Dev%20%E2%80%A2%20XR%20%E2%80%A2%20Machine%20Vision&descAlignY=56&descSize=18" width="100%" alt="header"/>
+</p>
 
 <p align="center">
-
-
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"> 
-<img src="https://komarev.com/ghpvc/?username=mxTuHin&label=Profile%20views&color=0e75b6&style=flat"alt="mxTuHin" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Game+Developer+%E2%80%94+Unity+%26+C%23;XR+Researcher+%E2%80%94+Meta+Quest+%26+VLMs;Robotics+%26+Machine+Vision+Enthusiast" alt="Typing SVG"/>
 </p>
-<br>
 
-<img align="right" alt="Coding" width="250" height="240" src="img/Background.png">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mxTuHin&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/mxTuHin?label=Followers&style=flat-square&color=bb9af7&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/last-commit/mxTuHin/mxTuHin?label=Last%20update&style=flat-square&color=9ece6a&logo=markdown" alt="Last commit"/>
+</p>
 
-##   👨 **About Me**
-
-🚀 A **Game Developer** by profession.<br/>
-💻 Exploring **AR, VR & XR** <br/>
-🤖 Enthusiast about **Robotics** and **Machine Vision**
+<p align="center">
+  <a href="https://mxtuhin.ninja"><img src="https://img.shields.io/badge/Website-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/mxtuhin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/mx_tuhin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/tuhin.mridha.5/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 ---
 
-## 📈 **Github Stats:**
+## 👨‍💻 About Me
 
-<div align="center">
+<img align="right" width="440" src="img/about.svg" alt="Tuhin.cs"/>
 
-<!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+- 🎮 **Game Developer** by profession — Unity & C#
+- 🥽 Researching **AR / VR / XR** — Meta Quest passthrough + VLMs
+- 🤖 Into **Robotics** & **Machine Vision** — Isaac Sim / Isaac Lab
+- 🎓 MSc in CSE @ **BRAC University**
+- 🛠️ Ship full-stack products & self-host my own infra
+- 🌍 Based in **Bangladesh**
 
-| ![mxTuHin's github stats](https://github-readme-stats.vercel.app/api?username=mxTuHin&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxTuHin&theme=tokyonight&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<br clear="right"/>
 
+## 📊 GitHub Stats
 
-<a href="https://github.com/mxTuHin/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mxTuHin&layout=compact&theme=tokyonight" />
-</a>
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="Stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mxTuHin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"/>
+</p>
 
-## 🛠️ **Languages & Tools:**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
+    <img alt="Contribution snake" src="./profile/snake.svg"/>
+  </picture>
+</p>
 
-![C#](https://img.shields.io/badge/-CSharp-9567CE?&style=for-the-badge&logo=C#&ogoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-black?&style=for-the-badge&logo=unity&ogoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-f26327?&style=for-the-badge&logo=php&ogoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-grey?&style=for-the-badge&logo=laravel&ogoColor=white)
+## 🛠️ Tech Stack
 
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-7F57F7?&style=for-the-badge&logo=phpstorm&ogoColor=white)
-![Python](https://img.shields.io/badge/-Python-green?&style=for-the-badge&logo=python&ogoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-Pycharm-019733?style=for-the-badge&logo=pycharm)
+| | |
+|:--|:--|
+| **🎮 Game Dev & XR** | <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender" height="36"/> |
+| **🧠 AI & Vision** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="36"/> |
+| **🌐 Web & Backend** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,django,laravel,prisma,tailwind" height="36"/> |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36"/> |
+| **☁️ Infra** | <img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx,cloudflare,linux,git" height="36"/> |
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-
-
-
-## 🌐 **Connect with me:** ️
-
-
-[![website](./img/globe-light.svg)](https://mxtuhin.ninja/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mxtuhin.ninja/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mxtuhin/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mxtuhin/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mx_tuhin/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mx_tuhin/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/tuhin.mridha.5/#gh-dark-mode-only)
-
-
-
-<img src="img/grid-snake.svg" />
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="footer"/>
+</p>
