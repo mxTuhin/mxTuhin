@@ -5,15 +5,20 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, master]
     paths-ignore: ["profile/**"]
 
 permissions:
   contents: write
 
+# Never let two runs race each other to push
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
 
@@ -34,17 +39,21 @@ jobs:
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
 
-      - name: Commit
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "chore: update profile cards" || exit 0
-          git push
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1
