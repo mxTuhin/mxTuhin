@@ -2,7 +2,7 @@ name: Update profile cards
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"   # 00:00 & 12:00 UTC = 6 AM & 6 PM Dhaka
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,8 +16,6 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v6
-
       - name: Stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -34,23 +32,6 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
-      - name: Trophies
-        continue-on-error: true
-        uses: soulteary/github-profile-trophy-action@v1.1.0
-        with:
-          options: username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15
-          path: dist/trophy.svg
-          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-
-      - name: Activity graph
-        continue-on-error: true
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          options: theme=tokyo-night&hide_border=true&area=true
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-
       - name: Contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -59,7 +40,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # master is protected (PR-only), so cards live on a separate "output" branch
+      # master is protected (PR-only), so publish cards to a separate "output" branch
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
