@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="Stats"/>
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
+  <img height="165" src="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/stats.svg" alt="Stats"/>
+  <img height="165" src="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -47,8 +47,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
-    <img alt="Contribution snake" src="./profile/snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/snake.svg"/>
   </picture>
 </p>
 
