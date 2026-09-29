@@ -42,15 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxTuHin&theme=dark&background=1A1B27&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/trophy.svg" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/mxTuhin/mxTuhin/output/activity-graph.svg" alt="Activity graph"/>
+  <img src="https://streak-stats.demolab.com?user=mxTuHin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"/>
 </p>
 
 <p align="center">
